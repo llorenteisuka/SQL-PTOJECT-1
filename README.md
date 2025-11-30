@@ -1,13 +1,13 @@
 # SQL-PTOJECT-1 Digital Marketing Analytics Project
 
-Objective
+## OBJECTIVE
 Analyze marketing campaigns and ad performance to generate insights for better decision-making using SQL and Excel.
 ________________________________________
-Tools
+## TOOLS
 •	SQL (MySQL): Data cleaning, analysis, and aggregation
 •	Excel: Dashboard and visualizations
 ________________________________________
-Steps
+## STEPS
 1.	Define objectives
 2.	Create database
 3.	Create tables
@@ -17,12 +17,13 @@ Steps
 7.	Export data to Excel
 8.	Create dashboard
 ________________________________________
-Key Findings
+## KEY FINDINGS
 •	Top-performing campaigns by revenue.
 •	Platforms with highest impressions and engagement.
 •	Click-through rates and profitability per campaign.
 •	Current active campaigns.
 ________________________________________
-Author
+## AUTHOR
 Lucia Llorente
+
 
